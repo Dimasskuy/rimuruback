@@ -2,7 +2,7 @@ const chalk = require("chalk")
 const fs = require("fs")
 
 //  presence update
-global.autoTyping = false //auto tying in gc (true to on, false to off)
+global.autoTyping = true //auto tying in gc (true to on, false to off)
 global.autoRecord = false //auto recording (true to on, false to off)
 global.autoblockmorroco = true //auto block 212 (true to on, false to off)
 global.autokickmorroco = true //auto kick 212 (true to on, false to off) 
@@ -10,7 +10,7 @@ global.antispam = true//auto kick spammer (true to on, false to off)
 
 
 //if api key expire, u can generate one from here: https://beta.openai.com/account/api-keys
-global.keyopenai = "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"
+global.keyopenai = "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"
 
 //documents variants
 global.doc1 = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
