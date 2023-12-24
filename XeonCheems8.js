@@ -3176,7 +3176,7 @@ case 'sc':
 case 'donate':
 case 'script':
 case 'donasi': {
-replygcxeon('Halo! Terimakasih telah menggunakan bot ini. Jika Anda ingin membantu pengembangan bot ini, maka Anda dapat melakukan donasi melalui halaman berikut:\nhttps://saweria.co/Danzzbotwa \n Terimakasih atas dukungan Anda!')
+replygcxeon('Halo! Terimakasih telah menggunakan bot ini. Jika Anda ingin membantu pengembangan bot ini, maka Anda dapat melakukan donasi melalui halaman berikut:\nhttps://saweria.co/Dimaskuyy\n Terimakasih atas dukungan Anda!')
 }
 break
 case 'getsession':
@@ -10698,7 +10698,7 @@ case 'anyeong': {
 }
 break
 case 'bot': {
-  reply('Dzsya Botz aktif kak')
+  reply('Rimuru Botz aktif kak')
 }
 break
 
