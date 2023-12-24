@@ -2,7 +2,7 @@ const chalk = require("chalk")
 const fs = require("fs")
 
 //  presence update
-global.autoTyping = true //auto tying in gc (true to on, false to off)
+global.autoTyping = false //auto tying in gc (true to on, false to off)
 global.autoRecord = false //auto recording (true to on, false to off)
 global.autoblockmorroco = true //auto block 212 (true to on, false to off)
 global.autokickmorroco = true //auto kick 212 (true to on, false to off) 
@@ -148,13 +148,13 @@ global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutp
 
 //messages
 global.mess = {
-wait: "Tunggu ngap",
-   success: "Sukses Kak`",
+wait: "sek sabar",
+   success: "Sukses bg",
    on: "Sudah Aktif", 
    off: "Sudah Off",
    query: {
-       text: "Teks Nya Mana woi?",
-       link: "Link Nya Mana woi?",
+       text: "Teks Nya Mana woi lama amat",
+       link: "Link Nya Mana woi lama amat",
    },
    error: {
        fitur: "Mohon Maaf Kak Fitur Eror Silahkan Chat Developer Bot Agar Bisa Segera Diperbaiki",
