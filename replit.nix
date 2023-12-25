@@ -1,7 +1,6 @@
 { pkgs }: {
     deps = [
       pkgs.unzipNLS
-pkgs.nodejs-16_x 
   pkgs.run 
   pkgs.imagemagick6_light
   pkgs.mailutils
